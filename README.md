@@ -24,10 +24,10 @@ There are 10 classes ( 10 music genres) each containing 100 audio tracks. Each t
 - Country
 - Disco
 - Hiphop
-Jazz
-Metal
-Pop
-Reggae
+- Jazz
+- Metal
+- Pop
+- Reggae
 Rock
 Music Genre Classification Approach
 There are various methods to perform classification on this dataset. Some of these approaches are:
