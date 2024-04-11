@@ -22,8 +22,8 @@ There are 10 classes ( 10 music genres) each containing 100 audio tracks. Each t
 - Blues
 - Classical
 - Country
-Disco
-Hiphop
+- Disco
+- Hiphop
 Jazz
 Metal
 Pop
