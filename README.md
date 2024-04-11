@@ -28,13 +28,13 @@ There are 10 classes ( 10 music genres) each containing 100 audio tracks. Each t
 - Metal
 - Pop
 - Reggae
-Rock
-Music Genre Classification Approach
+- Rock
+## Music Genre Classification Approach
 There are various methods to perform classification on this dataset. Some of these approaches are:
-Multiclass support vector machines
-K-means clustering
-K-nearest neighbors
-Convolutional neural networks
+- Multiclass support vector machines
+- K-means clustering
+- K-nearest neighbors
+- Convolutional neural networks
 We will use the K-nearest neighbors algorithm because in various researches it has shown the best results for this problem.
 Goals of our Analysis
 Musical genres are categorical labels created by humans to characterize pieces of music. A musical genre is characterized by the common characteristics shared by its members. These characteristics typically are related to the instrumentation, rhythmic structure, and harmonic content of the music.
