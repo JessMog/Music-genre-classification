@@ -16,7 +16,9 @@ For this project we need a dataset of audio tracks having similar size and simil
 ![Screenshot 2024-04-08 231009](https://github.com/JessMog/Music-genre-classification/assets/40331541/9ae94d0f-cdd2-4368-8480-c557c23c77e0)
 ## The Data Source(s)
 We will be using the GTZAN genre classification dataset from kaggle for the music genre classification project and it was collected for this task only.
-The GTZAN genre collection dataset was collected in 2000-2001. It consists of 1000 audio files each having 30 seconds duration. There are 10 classes ( 10 music genres) each containing 100 audio tracks. Each track is in .wav format. It contains audio files of the following 10 genres:
+The GTZAN genre collection dataset was collected in 2000-2001. It consists of 1000 audio files each having 30 seconds duration. 
+
+There are 10 classes ( 10 music genres) each containing 100 audio tracks. Each track is in .wav format. It contains audio files of the following 10 genres:
 Blues
 Classical
 Country
