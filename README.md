@@ -10,7 +10,7 @@ Jesse and Hazra will work jointly on building a neural network model for this pr
 ## Overview
 We are going to develop a deep learning project to automatically classify different musical genres from audio files. We will classify these audio files using their low-level features of frequency and time domain.
    
- 
+  
 For this project we need a dataset of audio tracks having similar size and similar frequency range. 
 
 ![Screenshot 2024-04-08 231009](https://github.com/JessMog/Music-genre-classification/assets/40331541/9ae94d0f-cdd2-4368-8480-c557c23c77e0)
