@@ -1,5 +1,5 @@
 # Music-genre-classification
-Music Genre detection
+Music Genre detection 
 ## Introduction
 Music genre classification is the process  where a piece of music is recognized, understood and differentiated by a conventional category as belonging to a shared traditions set of conventions.
 
