@@ -4,7 +4,7 @@ Music Genre detection
 Music genre classification is the process  where a piece of music is recognized, understood and differentiated by a conventional category as belonging to a shared traditions set of conventions.
 
 In this project we are interested in working on genre detection as a probabilistic distribution of various genres as they pertain to the underlying styles of songs,albums and artists.We will be using a neural network model for this.We shall be tagging 10 genres and fine tune our model to achieve higher accuracy.
-The dataset used for this project is GTZAN Music Genre Classification from kaggle.
+The dataset used for this project is GTZAN Music Genre Classification from kaggle. 
 ### The Team
 Jesse and Hazra will work jointly on building a neural network model for this project. 
 ## Overview
