@@ -9,7 +9,7 @@ The dataset used for this project is GTZAN Music Genre Classification from kaggl
 Jesse and Hazra will work jointly on building a neural network model for this project.
 ## Overview
 We are going to develop a deep learning project to automatically classify different musical genres from audio files. We will classify these audio files using their low-level features of frequency and time domain.
-
+ 
 
 For this project we need a dataset of audio tracks having similar size and similar frequency range. 
 
